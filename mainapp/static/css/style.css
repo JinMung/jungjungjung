@@ -1,0 +1,59 @@
+#mainNav {
+    background-color: #daf8ff!important;
+}
+
+#masthead{
+    background-color: #daf8ff!important;
+}
+
+hr.star-light:after{
+    background-color: #daf8ff!important;
+}
+
+#button{
+    background-color: #daf8ff!important;
+}
+
+.bg-primary{
+    background-color: #daf8ff!important; 
+
+}
+#mainNav .navbar-brand {
+    color: #08646b;
+}
+
+@media (min-width: 992px) {
+    .col-lg-4 {
+       flex: none!important;
+       max-width: 100%!important;
+    }
+}
+
+.text-white { color: #6b5408 !important; }
+
+.text_form {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.result_title {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: a옛날목욕탕L;
+}
+
+#result_board {
+    background-color: rgb(45, 119, 133);
+}
+
+.lead {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: a옛날목욕탕L;
+}
